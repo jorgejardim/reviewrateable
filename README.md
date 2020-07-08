@@ -3,14 +3,14 @@
 [![Latest Unstable Version](https://poser.pugx.org/trexology/reviewrateable/v/unstable)](https://packagist.org/packages/trexology/reviewrateable) [![License](https://poser.pugx.org/trexology/reviewrateable/license)](https://packagist.org/packages/trexology/reviewrateable)
 
 # Laravel ReviewRateable
-ReviewRateable system for laravel 5.*
+ReviewRateable system for Laravel by trexology/reviewrateable
 
 ## Installation
 
 First, pull in the package through Composer.
 
 ```js
-composer require trexology/reviewrateable
+composer require jorgejardim/reviewrateable
 ```
 
 And then include the service provider within `app/config/app.php`. (Skip this step if you are on Laravel 5.5 or above)
